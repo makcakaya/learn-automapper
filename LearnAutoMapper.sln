@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAutoMapper.ConsoleApp", "src\LearnAutoMapper.ConsoleApp\LearnAutoMapper.ConsoleApp.csproj", "{C1613B57-21AF-4C21-904F-05C34902E9B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAutoMapper.Layers.Source", "src\LearnAutoMapper.Layers.Source\LearnAutoMapper.Layers.Source.csproj", "{23C130C2-E9FD-457F-A1DD-6CEA4EE07954}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnAutoMapper.Layers.Destination", "src\LearnAutoMapper.Layers.Destination\LearnAutoMapper.Layers.Destination.csproj", "{644B9E00-7A13-4E09-B0B4-FE5CF7634E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1613B57-21AF-4C21-904F-05C34902E9B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1613B57-21AF-4C21-904F-05C34902E9B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1613B57-21AF-4C21-904F-05C34902E9B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1613B57-21AF-4C21-904F-05C34902E9B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C130C2-E9FD-457F-A1DD-6CEA4EE07954}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C130C2-E9FD-457F-A1DD-6CEA4EE07954}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C130C2-E9FD-457F-A1DD-6CEA4EE07954}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C130C2-E9FD-457F-A1DD-6CEA4EE07954}.Release|Any CPU.Build.0 = Release|Any CPU
+		{644B9E00-7A13-4E09-B0B4-FE5CF7634E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{644B9E00-7A13-4E09-B0B4-FE5CF7634E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{644B9E00-7A13-4E09-B0B4-FE5CF7634E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{644B9E00-7A13-4E09-B0B4-FE5CF7634E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
